@@ -1,6 +1,6 @@
 {
   "name": "express-init-routes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A little ExpressJS module to facilitate initialization of routes.",
   "main": "index.js",
   "scripts": {
