@@ -6,7 +6,7 @@ A little ExpressJS module to facilitate initialization of routes.
 
 -Mapping of model vs. url made available throughout app
 
-# Usgae
+# Usage
 ```
 var app = require('express')(),
     restify = require('mongoose-rest-query').restify,
