@@ -1,0 +1,22 @@
+{
+  "name": "express-init-routes",
+  "version": "1.0.0",
+  "description": "A little ExpressJS module to facilitate initialization of routes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadeemramsing/express-init-routes.git"
+  },
+  "author": "Nadeem Ramsing <nadeem.ramsing@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadeemramsing/express-init-routes/issues"
+  },
+  "homepage": "https://github.com/nadeemramsing/express-init-routes#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
