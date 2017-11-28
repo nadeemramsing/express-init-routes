@@ -1,6 +1,6 @@
 var _ = require('lodash');
 
-module.exports = function (app, restify) {
+module.exports = function (app, restify, routes) {
     _.each(routes, function (route) {
         var args = [];
 
