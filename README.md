@@ -18,14 +18,6 @@ initRoutes(app, restify, routes);
 ```
 
 # How to set up routes
-
-
-Properties:
-```
-app[method](path, middleware1, middleware2, restify(model))
-```
-
-
 ```
 var controller = require('./controller'),
     middleware = require('./middleware'),
@@ -49,4 +41,9 @@ var routes = [
     ];
 
 module.exports = routes;
+```
+
+Properties:
+```
+app[method](path, middleware1, middleware2, restify(model))
 ```
